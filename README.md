@@ -3,7 +3,6 @@ About Me
 - 👀 I’m interested in hiking, yoga and coding!
 - 🌱 I’m currently learning Python in Angela Yu's 100 Days of Code: The Complete Python Pro Bootcamp.
 - 💞️ I’m looking to collaborate on projects and learn!
-- 📫 Reach me on linkedIn 
 
 <!---
 mayrapena1324/mayrapena1324 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
