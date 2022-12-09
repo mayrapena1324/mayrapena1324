@@ -1,4 +1,17 @@
-About Me
+<h1>
+    Hello Everyone!
+</h1>
+
+<p align='center'>
+</p>
+
+<div size='20px'>
+    Welcome to my Github profile. Follow along and watch me grow! 🌱
+</div>
+
+<h2>
+    About Me
+</h2>
 - 👋 Hi, I’m Mayra
 - 👀 I’m interested in hiking, yoga and coding!
 - 🌱 I’m currently learning Python in Angela Yu's 100 Days of Code: The Complete Python Pro Bootcamp.
