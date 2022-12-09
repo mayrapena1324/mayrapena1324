@@ -6,7 +6,7 @@
 </p>
 
 <div size='20px'>
-    👋 Hi, I’m Mayra. Welcome to my Github profile. Follow along and watch me grow! 🌱
+    👋 Hi, I’m Mayra. Take a gander at my Github profile. Follow along and watch me grow! 🌱
 </div>
 
 <h2>
