@@ -21,12 +21,15 @@
  
  💞️ I’m looking to collaborate on projects and learn!
 
+
 <h2>
     Skills &nbsp;
 </h2>
 
+
 <a href='https://github.com/mayrapena1324?tab=repositories&q=&type=&language=python&sort='> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
 &nbsp;
+
 
 <h2>
     Connect with me
@@ -34,6 +37,8 @@
 
 <a href = 'https://www.linkedin.com/in/mayra-pena33/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
 &nbsp;
+
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayrapena1324&layout=compact)](https://github.com/mayrapena1324/github-readme-stats)
