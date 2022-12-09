@@ -25,6 +25,9 @@
     Skills &nbsp;
 </h2>
 
+<a href=https://github.com/mayrapena1324?tab=repositories&q=&type=&language=python&sort=> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
+&nbsp;
+
 
 
 
