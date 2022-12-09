@@ -17,9 +17,9 @@
  
  🌱 I’m currently learning Python in Angela Yu's 100 Days of Code: The Complete Python Pro Bootcamp.
  
- 🤞🏽 Connect with me on LinkedIn
- 
  💞️ I’m looking to collaborate on projects and learn!
+ 
+ 💪🏽 I want to join your team as Backend Software Developer. Let's talk.
 
 
 <h2>
