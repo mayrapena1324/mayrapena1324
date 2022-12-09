@@ -2,6 +2,7 @@ About Me
 - 👋 Hi, I’m Mayra
 - 👀 I’m interested in hiking, yoga and coding!
 - 🌱 I’m currently learning Python in Angela Yu's 100 Days of Code: The Complete Python Pro Bootcamp.
+- 🤞🏽 Connect with me on LinkedIn @ https://www.linkedin.com/in/mayra-pena33/
 - 💞️ I’m looking to collaborate on projects and learn!
 
 <!---
