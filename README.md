@@ -1,15 +1,3 @@
-
-
-
-<a href = 'https://www.linkedin.com/in/mayra-pena33/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
-&nbsp; 
-<a href = 'https://twitter.com/MayraCode'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a>
-
-
-<br>
-
-[![Maya's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayrapena1324&theme=tokyonight)](https://github.com/mayrapena1324/github-readme-stats)
- --> -->
 <h1 align="center">👋 Hi, I'm Mayra</h1>
 <h3 align="center"> Take a gander at my Github profile. Follow along and watch me grow! 🌱</h3>
 
