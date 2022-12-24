@@ -13,7 +13,7 @@
  
  💪🏽 I want to join your team as Backend Software Developer. Let's talk.
  
- 💼 Check out my portfolio <a href="https://mayra-pena-portfolio-website.netlify.app/" target="blank_">here</a>
+ 💼 Check out my portfolio <a href="https://mayra-pena-portfolio-website.netlify.app/">here</a>
  
 <h2 align="left">Connect with me:</h2>
 
