@@ -7,11 +7,13 @@
 
  👀 I’m interested in hiking, yoga and coding!
  
- 🌱 I’m currently learning Python in Angela Yu's 100 Days of Code: The Complete Python Pro Bootcamp.
+ 🌱 Python in Angela Yu's 100 Days of Code: The Complete Python Pro Bootcamp.
  
  💞️ I’m looking to collaborate on projects and learn!
  
  💪🏽 I want to join your team as Backend Software Developer. Let's talk.
+ 
+ 💼 Check out my portfolio <a href="https://mayra-pena-portfolio-website.netlify.app/">here</a>
  
 <h2 align="left">Connect with me:</h2>
 
