@@ -13,7 +13,7 @@
  
  💞️ I’m looking to collaborate on projects and learn!
  
- 💪🏽 I want to join your team as Data Engineer. Let's talk.
+ 💪🏽 I want to join your team as Data Engineer or Data Professional. Let's talk.
  
  💼 Check out my portfolio <a href="https://mayra-pena-portfolio-website.netlify.app/" target="_blank">here</a>
  
