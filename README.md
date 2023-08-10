@@ -5,7 +5,7 @@
     About Me
 </h2>
 
- 👀 I’m interested in hiking, yoga and coding!
+ 👀 I’m interested in hiking, yoga and data!
  
  🌱 Python in Angela Yu's 100 Days of Code: The Complete Python Pro Bootcamp.
  
