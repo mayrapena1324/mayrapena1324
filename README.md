@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Mayra</h1>
-<h3 align="center"> Take a gander at my Github profile. Follow along and watch me grow! 🌱</h3>
+<h3 align="center"> Take a gander at my Github profile.🌱</h3>
 
 <h2>
     About Me
